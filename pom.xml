@@ -12,5 +12,17 @@
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+<<<<<<< HEAD
     
+=======
+
+    <dependencies>
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>3.3.0</version>
+        </dependency>
+    </dependencies>
+
+>>>>>>> 0d746ef (对比jdk动态代理和CGLIB动态代理对比)
 </project>
